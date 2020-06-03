@@ -2,5 +2,5 @@ require 'pry'
 
 def oxford_comma(array)
 #binding.pry
-if array
+if array.length ==
 end
