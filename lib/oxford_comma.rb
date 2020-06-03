@@ -8,6 +8,6 @@ if array.length == 1
    array[0] + " and "+ array[1]
  else
   binding.pry
-  array[]
- end 
+  array[-1] = "and " + arrary[-1]
+  end 
 end
